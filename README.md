@@ -1,7 +1,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stalhabukhari/)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/stalhabukhari)
-
-<br>
+[<img src="https://img.shields.io/badge/Scholar-%230077B5.svg?&style=for-the-badge&logo=google-scholar&logoColor=blue&color=white" />](https://scholar.google.com/citations?user=B-lOirkAAAAJ&hl=en)
 
 <p align="justify">
   Hi!
