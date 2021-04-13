@@ -10,7 +10,7 @@
 </p>
 
 <p align="justify">
-  My work is primarily contained in private repositories (due to contractual obligations) but I'm always available at my <a href="mailto:syed.bukhari@lums.edu.pk?subject=[GITHELP]">email</a> to address queries.
+  My work is primarily contained in private repositories (due to contractual obligations) but I'm always available at my <a href="mailto:bukhari.stalha@gmail.com?subject=[GITHELP]">email</a> to address queries.
 </p>
 
 <!--
