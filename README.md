@@ -6,7 +6,8 @@
   Hi!
   I'm <b>Talha</b>.
   I'm a Control engineer by training, and I enjoy studying mathematical intricacies and expressing them through the medium of programming.
-  I currently work on applying Deep Learning to segment 3D MRI scans with (inherent) class-imbalance.
+  Currently, I am focusing on developing and deploying AI pipelines for 2D/3D object detection and segmentation tasks.
+  I have previously worked on using Deep Learning to segment 3D MRI scans with (inherent) class-imbalance.
 </p>
 
 <p align="justify">
