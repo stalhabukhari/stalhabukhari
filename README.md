@@ -15,8 +15,6 @@
   My work is primarily contained in private repositories (due to contractual obligations) but I'm always available at my <a href="mailto:bukhari.stalha@gmail.com?subject=[GITHELP]">email</a> to address queries.
 </p>
 
-![Talha's github stats](https://github-readme-stats.vercel.app/api?username=stalhabukhari&count_private=true&hide=stars,issues&show_icons=true&theme=synthwave)
-
 <!--
 **stalhabukhari/stalhabukhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
