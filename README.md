@@ -6,13 +6,13 @@
 <p align="justify">
   Hi!
   I'm <b>Talha</b>.
-  I'm a Control engineer by training, and I enjoy studying mathematical intricacies and expressing them through the medium of programming.
-  Currently, I am focusing on developing and deploying AI pipelines for 2D/3D object detection and segmentation tasks.
-  I have previously worked on using Deep Learning to segment 3D MRI scans with (inherent) class-imbalance.
+  I am a PhD student at Purdue University, focusing on Robot Learning.
+  Previously, I developed and deployed AI pipelines for 2D/3D object detection and segmentation tasks.
+  Before that, I worked on using Deep Learning to segment 3D MRI scans with (inherent) class-imbalance.
 </p>
 
 <p align="justify">
-  My work is primarily contained in private repositories (due to contractual obligations) but I'm always available at my <a href="mailto:bukhari.stalha@gmail.com?subject=[GITHELP]">email</a> to address queries.
+  For queries, feel free to <a href="mailto:bukhari.stalha@gmail.com?subject=[GITHELP]">email</a>.
 </p>
 
 <!--
